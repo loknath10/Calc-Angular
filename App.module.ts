@@ -6,5 +6,6 @@ declarations: [ AppComponent
 ], imports: [ BrowserModule
 ],
 providers: [],
-bootstrap: [AppComponent] })
+bootstrap: [AppComponent] 
+})
 export class AppModule { }
